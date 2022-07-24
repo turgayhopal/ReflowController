@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "MAX6675ISA&plus_")(type "Legacy")(uri "${KIPRJMOD}/Lib/MAX6675ISA&plus_.lib")(options "")(descr ""))
+  (lib (name "RP2040")(type "Legacy")(uri "${KIPRJMOD}/Lib/RP2040.lib")(options "")(descr ""))
+  (lib (name "UG-2864HSWEG01")(type "Legacy")(uri "${KIPRJMOD}/Lib/UG-2864HSWEG01.lib")(options "")(descr ""))
+  (lib (name "W25Q128JVS")(type "Legacy")(uri "${KIPRJMOD}/Lib/W25Q128JVS.lib")(options "")(descr ""))
+)
